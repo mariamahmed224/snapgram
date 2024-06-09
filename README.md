@@ -1,3 +1,18 @@
+
+😊 Hello
+
+🙌 My Name is Mariam, i am a front-end Developer
+
+😎 My Hobies are reading, programming and dancing
+
+😉 Fun fact, i am a bad dancer 🤣🤣
+
+
+
+
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
